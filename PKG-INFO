@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: meld
+Version: 3.14.2
+Summary: Visual diff and merge tool
+Home-page: http://meldmerge.org
+Author: Kai Willadsen
+Author-email: kai.willadsen@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: X11 Applications :: GTK
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: GNU General Public License v2 or later (GPLv2+)
+Classifier: Programming Language :: Python
+Classifier: Topic :: Desktop Environment :: Gnome
+Classifier: Topic :: Software Development
+Classifier: Topic :: Software Development :: Version Control

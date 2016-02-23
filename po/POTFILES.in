@@ -1,0 +1,36 @@
+bin/meld
+data/meld.desktop.in
+[type: gettext/xml]data/meld.appdata.xml.in
+[type: gettext/xml]data/mime/meld.xml.in
+data/org.gnome.meld.gschema.xml
+[type: gettext/glade]data/ui/application.ui
+[type: gettext/glade]data/ui/dirdiff.ui
+[type: gettext/glade]data/ui/EditableList.ui
+[type: gettext/glade]data/ui/filediff.ui
+[type: gettext/glade]data/ui/findbar.ui
+[type: gettext/glade]data/ui/meldapp.ui
+[type: gettext/glade]data/ui/patch-dialog.ui
+[type: gettext/glade]data/ui/preferences.ui
+[type: gettext/glade]data/ui/tab-placeholder.ui
+[type: gettext/glade]data/ui/vcview.ui
+meld/const.py
+meld/dirdiff.py
+meld/filediff.py
+meld/filemerge.py
+meld/gutterrendererchunk.py
+meld/meldapp.py
+meld/meldbuffer.py
+meld/melddoc.py
+meld/meldwindow.py
+meld/misc.py
+meld/patchdialog.py
+meld/preferences.py
+meld/recent.py
+meld/ui/findbar.py
+meld/ui/historyentry.py
+meld/ui/notebooklabel.py
+meld/ui/vcdialogs.py
+meld/vc/git.py
+meld/vc/_null.py
+meld/vc/_vc.py
+meld/vcview.py
